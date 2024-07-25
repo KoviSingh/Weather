@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+h2{
+    position: absolute;
+    top: -12px;
+    color: black;
+    left: 45%;
+}

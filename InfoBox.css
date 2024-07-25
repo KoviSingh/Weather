@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.InfoBox{
+    text-align: center;
+    top: 200px;
+}
+.weather-info-title {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.container{
+    position: absolute;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    left: 43%;
+    width: 300px;   
+}
